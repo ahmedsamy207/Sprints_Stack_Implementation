@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1630197062 source:c:\users\ahmed\downloads\compressed\sprints-w9-main\stack implementation\main.c
+	"Stack.h"
+
+1630196867 c:\users\ahmed\downloads\compressed\sprints-w9-main\stack implementation\stack.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"Std_Types.h"
+
+1630197897 c:\users\ahmed\downloads\compressed\sprints-w9-main\stack implementation\std_types.h
+
+1630196867 source:c:\users\ahmed\downloads\compressed\sprints-w9-main\stack implementation\stack.c
+	"Stack.h"
+
+1630199260 source:g:\sprints summer training 2021\tasks\stack implementation\main.c
+	"Stack.h"
+
+1630196867 g:\sprints summer training 2021\tasks\stack implementation\stack.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"Std_Types.h"
+
+1630197897 g:\sprints summer training 2021\tasks\stack implementation\std_types.h
+
+1630196867 source:g:\sprints summer training 2021\tasks\stack implementation\stack.c
+	"Stack.h"
+
